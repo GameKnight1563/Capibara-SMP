@@ -1,94 +1,604 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717722453909 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717787405512 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722456969 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787408552 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722460029 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787411592 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722463085 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787414629 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722466146 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787417672 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722469251 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787420712 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722472322 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787423744 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722475380 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787426798 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722478430 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787429840 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722481501 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787432874 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722484550 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787435956 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722487614 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787439015 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722490652 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787442069 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722493708 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787445126 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722496769 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787448193 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722499818 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787451258 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722502871 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787454315 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722505925 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787457378 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717722508977 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1717787460444 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787463493 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787466583 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787469632 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787472686 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787475736 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787478776 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787481817 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787484862 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787487904 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787490946 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787493981 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787497033 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787500086 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787503144 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787506196 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787509244 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787512405 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787515442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787518584 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787521667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787524721 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787527772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787530818 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787533861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787536928 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787539978 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787543044 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787546101 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787549154 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787552205 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787555257 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787558306 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787561362 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787564423 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787567474 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787570537 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787573599 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787576651 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787579701 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787582782 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787585939 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787589013 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787592089 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787595141 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787598201 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787601242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787604280 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787607336 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787610398 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787613456 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787616519 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787619566 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787622607 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787625660 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787628712 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787631753 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787634797 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787637870 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787640923 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787643968 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787647004 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787650049 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787653093 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787656147 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787659208 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787662287 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787665351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787668401 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787671441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787674494 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787677557 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787680616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787683678 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787686727 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787689759 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787692810 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787695861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787698911 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787701995 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787705055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787708139 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787711191 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787714258 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787717319 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787720377 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787723425 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787726495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787729536 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787732594 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787735643 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787738694 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787741737 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787744775 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787747834 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787750901 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787753952 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787756999 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787760043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787763093 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787766140 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787769180 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717787772264 tunnel running, 1 tunnels registered
 
 
 TUNNELS
