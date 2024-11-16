@@ -1,980 +1,1176 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1731799853461 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1731800985369 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799856529 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731800988430 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799859585 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731800991512 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799862645 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731800994569 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799865700 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731800997629 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799868762 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801000694 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799871846 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801003764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799874920 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801006865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799877988 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801009941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799881214 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801013012 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799884270 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801016070 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799887334 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801019130 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799890398 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801022209 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799893459 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801025279 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799896531 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801028337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799899592 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801031410 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799902773 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801034471 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799905847 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801037540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799908927 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801040616 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799911993 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801043684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799915061 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801046751 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799918134 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801049833 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799921197 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801052912 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799924254 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801055973 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799927322 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801059038 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799930402 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801062094 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799933481 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801065157 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799936543 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801068227 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799939614 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801071305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799942670 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801074384 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799945738 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801077444 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799948877 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801080510 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799951949 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801083579 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799955011 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801086650 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799958090 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801089719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799961161 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801092788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799964250 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801095856 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799967310 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801098924 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799970412 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801101981 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799973471 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801105043 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799976540 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801108111 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799979600 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801111186 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799982677 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801114246 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799985745 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801117312 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799988810 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801120375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799991883 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801123437 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799994958 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801126498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731799998027 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801129560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800001110 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801132617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800004178 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801135673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800007253 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801138734 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800010323 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801141795 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800013397 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801144855 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800016453 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801147924 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800019517 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801150993 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800022575 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801154051 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800025688 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801157117 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800028832 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801160178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800031908 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801163238 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800034971 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801166340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800038049 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801169416 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800041109 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801172480 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800044178 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801175537 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800047234 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801178596 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800050290 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801181654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800053397 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801184723 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800056461 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801187804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800059517 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801190878 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800062585 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801193952 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800065681 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801197036 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800068746 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801200092 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800071826 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801203158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800074893 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801206214 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800077951 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801209280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800081017 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801212348 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800084083 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801215427 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800087165 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801218489 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800090242 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801221549 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800093305 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801224607 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800096363 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801227672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800099509 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801230736 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800102572 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801233801 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800105640 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801236860 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800108701 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801239923 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800111758 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801242987 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800114818 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801246048 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800117900 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801249107 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800120968 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801252173 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800124045 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801255232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800127109 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801258287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800130181 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801261344 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800133250 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801264406 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800136314 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801267466 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800139380 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801270542 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800142447 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801273607 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800145515 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801276663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800148586 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801279721 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800151640 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801282789 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800154696 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801285847 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800157749 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801288909 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800160808 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801291975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800163867 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801295031 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800166937 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801298140 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800170007 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801301198 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800173066 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801304258 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800176191 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801307459 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800179273 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801310524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800182336 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801313598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800185408 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801316664 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800188487 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801319721 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800191554 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801322788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800194613 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801325847 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800197687 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801328904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800200883 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801331969 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800203943 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801335034 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800206999 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801338093 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800210063 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801341163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800213140 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801344221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800216208 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801347282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800219358 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801350345 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800222416 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801353408 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800225473 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801356475 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800228546 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801359542 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800231613 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801362599 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800234677 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801365655 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800237742 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801368715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800240850 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801371772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800243919 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801374850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800246995 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801377918 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800250053 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801380973 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800253109 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801384037 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800256348 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801387105 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800259404 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801390160 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800262467 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801393224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800265524 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801396286 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800268586 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801399343 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800271645 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801402401 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800274700 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801405472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800277940 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801408537 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800281006 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801411605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800284084 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801414676 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800287145 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801417747 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800290203 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801420851 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800293258 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801423920 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800296316 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801426987 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800299383 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801430047 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800302448 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801433109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800305506 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801436177 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800308565 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801439242 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800311618 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801442303 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800314676 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801445363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800317735 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801448425 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800320795 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801451491 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800323855 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801454560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800326932 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801457646 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800330004 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801460709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800333093 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801463771 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800336216 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801466840 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800339274 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801469904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800342338 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801472978 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800345395 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801476048 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800348456 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801479114 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800351511 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801482188 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800354574 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801485254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800357627 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801488323 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800360716 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801491382 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800363807 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801494440 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800366867 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801497507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800369924 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801500570 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800372986 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801503629 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800376074 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801506694 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800379133 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801509758 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800382190 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801512822 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800385346 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801515883 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800388411 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801518956 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800391566 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801522025 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800394636 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801525087 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800397716 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801528169 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800400847 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801531263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800403912 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801534334 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800406981 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801537406 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800410052 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801540479 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800413116 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801543548 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800416179 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801546625 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800419239 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801549683 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800422387 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801552837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800425451 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801555943 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800428521 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801559006 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800431608 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801562086 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800434668 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801565150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800437733 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801568219 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800440787 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801571287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800443847 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801574354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800446908 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801577422 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800449968 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801580481 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1731800453034 tunnel running, 1 tunnels registered
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1731801583536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 let-decision.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+comments-journalists.gl.at.ply.gg:4188 => 127.0.0.1:4188 (proto: Udp, port count: 1)
